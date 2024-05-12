@@ -68,3 +68,21 @@ footer {
     color: #FF4668;
     
 }
+
+.filterbar:hover {
+    color: #FF4668;
+    transform: scale(1.1);
+
+}
+
+.filterbar {
+    transition: 0.5s;
+}
+
+.login {
+    transition: 0.5s;
+}
+
+.login:hover {
+    color: #FF4668;
+}
